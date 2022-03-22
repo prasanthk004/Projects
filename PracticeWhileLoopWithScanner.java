@@ -46,5 +46,6 @@ public class PracticeWhileLoopWithScanner {
 		
 			System.out.println("welcome" + Name);
 			} 
+	//Test
 
 }
